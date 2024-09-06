@@ -1,0 +1,24 @@
+.divonica {
+    width: 100%;
+    height: 100%;
+}
+
+h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: green;
+    font-size: large;
+    color: aliceblue;
+}
+
+h2 {
+    background: lightseagreen;
+    color: aliceblue;
+    padding-left: 3%;
+    margin: 1%;
+}
+span {
+    background: lightgreen;
+    color: black;
+}

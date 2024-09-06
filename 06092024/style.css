@@ -1,0 +1,25 @@
+th {
+    color: white;
+    background-color: green;
+    border: 0;
+}
+
+.destaque {
+    background-color: rgb(156, 241, 156);
+}
+
+.valor {
+    text-align: right;
+}
+
+input {
+    text-align: right;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+    appearance: none;
+}
+
+#number_salario{
+    text-align: right;
+}
