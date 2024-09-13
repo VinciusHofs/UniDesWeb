@@ -1,0 +1,33 @@
+.part1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.partition {
+    display: flex;
+
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    margin-left: 6px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.star {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    height: 40px;
+    border: 1px solid;
+}
